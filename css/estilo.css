@@ -1,0 +1,36 @@
+h1{
+    position: relative;
+    bottom: 230px;
+    left: 400px;
+}
+#tt2{
+    position: relative;
+    bottom: 220px;
+    left: 400px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#hh{
+    position: relative;
+    bottom: 220px;
+    left: 400px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+background: rgba(0, 132, 255, 0.76);
+
+}
+
+section{
+    position: relative;
+    bottom: 180px;
+    left: 20px;
+}
